@@ -16,3 +16,6 @@
 [submodule "nvim"]
 	path = nvim
 	url = https://github.com/subliminalspaces/nvim-configs
+[submodule "system-monitor-configs"]
+	path = system-monitor-configs
+	url = https://github.com/subliminalspaces/system-monitor-configs
