@@ -4,15 +4,14 @@ Clone this repo. Be sure to recurse.
 ```
 git clone https://github.com/subliminalspaces/dotfiles --recurse-submodules
 ```
-The aconfmgr configs are private for security reasons. I will be adding some minimum configs for just these dotfiles soon.
+aconfmgr is submoduled for convenience sake.
+However, my aconfmgr configs are private for security reasons. I will be adding some minimum configs for just these dotfiles soon.
 
-After cloning this repo down, you should be able to
-Otherwise, you would be able to.
+Otherwise, you would be able to one command restore.
 ```
 cd ~/.config/aconfmgr/
 sh aconfmgr apply
 ```
-
 
 Be sure to download and add alacritty's terminfo.
 
