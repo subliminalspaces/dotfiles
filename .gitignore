@@ -1,7 +1,10 @@
-pulse
-obsidian
-dconf
-Code
-gh
-Session.vim
-**/*/Session.vim
+*
+!README.04/11/2023
+!aconfmgr
+!alacritty
+!i3
+!nvim
+!picom
+!polybar
+!zsh
+*/**/Session.vim
