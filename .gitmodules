@@ -25,3 +25,6 @@
 [submodule "polybar"]
 	path = polybar
 	url = https://github.com/subliminalspaces/polybar-configs
+[submodule "rofi"]
+	path = rofi
+	url = https://github.com/subliminalspaces/rofi-configs
