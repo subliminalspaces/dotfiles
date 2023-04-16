@@ -7,4 +7,6 @@
 !picom
 !polybar
 !zsh
+!rofi
 */**/Session.vim
+
