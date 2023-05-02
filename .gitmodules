@@ -19,9 +19,6 @@
 [submodule "system-monitor-configs"]
 	path = system-monitor-configs
 	url = https://github.com/subliminalspaces/system-monitor-configs
-[submodule "aconfmgr"]
-	path = aconfmgr
-	url = https://github.com/subliminalspaces/aconfmgr
 [submodule "polybar"]
 	path = polybar
 	url = https://github.com/subliminalspaces/polybar-configs
