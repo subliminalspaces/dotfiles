@@ -8,5 +8,12 @@
 !polybar
 !zsh
 !rofi
+!wofi
+!hypr
+!ranger
+!btop
+!mpv
+!procps
+!waybar
 */**/Session.vim
 
