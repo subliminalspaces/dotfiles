@@ -1,6 +1,3 @@
-[submodule "lvim"]
-	path = lvim
-	url = https://github.com/subliminalspaces/lvim-configs
 [submodule "zsh"]
 	path = zsh
 	url = https://github.com/subliminalspaces/zsh-configs
