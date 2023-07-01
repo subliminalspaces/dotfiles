@@ -28,3 +28,6 @@
 [submodule "hypr"]
 	path = hypr
 	url = https://github.com/subliminalspaces/hyprland-configs
+[submodule "kitty"]
+	path = kitty
+	url = https://github.com/subliminalspaces/kitty-configs
