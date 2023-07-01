@@ -16,5 +16,9 @@
 !procps
 !waybar
 !kitty
+!btop
+!qutebrowser
+!swaylock
+!wofi
 */**/Session.vim
 
