@@ -15,5 +15,6 @@
 !mpv
 !procps
 !waybar
+!kitty
 */**/Session.vim
 
