@@ -20,5 +20,6 @@
 !qutebrowser
 !swaylock
 !wofi
+!bat
 */**/Session.vim
 
