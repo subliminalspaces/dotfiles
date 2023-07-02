@@ -21,5 +21,6 @@
 !swaylock
 !wofi
 !bat
+!starship
 */**/Session.vim
 
