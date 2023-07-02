@@ -31,3 +31,6 @@
 [submodule "kitty"]
 	path = kitty
 	url = https://github.com/subliminalspaces/kitty-configs
+[submodule "ranger"]
+	path = ranger
+	url = https://github.com/subliminalspaces/ranger-configs
